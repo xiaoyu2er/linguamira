@@ -1,25 +1,26 @@
 # LinguaMira
 
-A modern cultural wisdom sharing platform built with Next.js, leveraging AI for translations and content curation. Powered by Cloudflare's ecosystem.
+A multilingual content creation platform that empowers creators to reach global audiences. Built with Next.js and powered by AI translation capabilities through Cloudflare's ecosystem.
 
 ## Overview
-LinguaMira is a monorepo project that aims to share cultural proverbs and wisdom across different languages. It uses AI for translations and content generation, automatically publishing to both web platform and social media channels.
+LinguaMira is a monorepo project that enables content creators to effortlessly publish their content in multiple languages. Using AI-powered translation and content enhancement, creators can connect with audiences worldwide while maintaining their authentic voice. Content is automatically distributed across web and social media channels.
 
 ## Tech Stack
 - Next.js (Monorepo architecture)
 - Cloudflare Pages (Hosting)
 - Cloudflare D1 (Database)
-- Cloudflare AI (Content processing)
+- Cloudflare AI (Translation & Content processing)
 - Twitter API (Social sharing)
 - SendGrid/Mailchannels (Email notifications)
 
 ## Core Features
-- AI-powered multi-language translation
-- Automated content publishing system
+- One-click multi-language content generation
+- AI-powered translation with context preservation
+- Automated cross-platform publishing
 - Social media integration (Twitter/X)
 - Email subscription management
-- Cultural content curation
-- Web platform with modern UI
+- Content creator dashboard
+- Modern, localized web interface
 
 ## Status: In Development 🚧
 
@@ -27,4 +28,4 @@ LinguaMira is a monorepo project that aims to share cultural proverbs and wisdom
 MIT
 
 ---
-Join us in building a bridge between cultures through the power of language and AI.
+Breaking language barriers for content creators worldwide.
