@@ -1,0 +1,15 @@
+{
+  "name": "linguamira",
+  "version": "1.0.0",
+  "description": "A modern cultural wisdom sharing platform built with Next.js, leveraging AI for translations and content curation. Powered by Cloudflare's ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^2.3.3"
+  }
+}
